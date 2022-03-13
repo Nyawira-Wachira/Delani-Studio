@@ -1,9 +1,12 @@
 .row2 {
     text-align: center;
 } 
-#Services h5 {
+h5 {
     text-align: center;
 }
 #Services p {
     text-align: center;
+}
+h1 {
+    font-size: medium;
 }
