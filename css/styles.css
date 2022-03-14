@@ -21,6 +21,11 @@ h2 {
 .icon-hidden {
     display: none;
 }
-
-
+#input {
+    width: 35%;
+}
+#msg {
+    height: 220px;
+    width: 68%;
+}
 
