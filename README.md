@@ -22,6 +22,8 @@ Technologies used include:
 Incase of any issues arising from using this application, feel free to contact me through email.
 ### License
 Nyawira-Wachira/Delani-Studio is licensed under the MIT License.
-Here is the link to the license 
-Copyright (c) {2022} **{Nyawira Wachira}**
+Here is the link to the license https://github.com/Nyawira-Wachira/Delani-Studio/blob/master/LICENSE
+
+Copyright (c) {2022}
+**{Nyawira Wachira}**
   
