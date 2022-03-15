@@ -68,10 +68,6 @@ h1 {
     width: 190px;
     margin: 18px;
 }
-.text {
-    color:white;
-}
-
 .name {
     background-color: transparent;
     border-color: white; 
@@ -84,6 +80,7 @@ h1 {
     color: white;
 }
 .message {
+    padding-bottom: 180px;
     background-color: transparent;
     border-color: white;
     color:white;
@@ -98,4 +95,12 @@ h1 {
     width: 40px;
     margin: 8px;
 }
+.port:hover
+{
+  box-shadow: 0 0 20px green;
+  width:190px;
+  height:160px;
+}
+@media screen and (min-width: 300px) and (orientation: landscape) {
 
+}
