@@ -1,5 +1,5 @@
 # Delani Studio 
-#### By **{Nyawira Wachira}**
+#### By **Nyawira Wachira**
 ## Description
 This is a web application that displays information about Delani Studio and allows users to contact the company through emails. It is a landing page for Delani Studio 
 which displays services offered, a porfolio section of the projects done before and a contact us section where you get to reach out to the company 
@@ -19,8 +19,9 @@ Technologies used include:
 * CSS
 * JavaScript Language
 ## Support and contact details
-incase of any issues arising from using this application, feel free to contact me through email.
+Incase of any issues arising from using this application, feel free to contact me through email.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+Nyawira-Wachira/Delani-Studio is licensed under the MIT License.
+Here is the link to the license 
 Copyright (c) {2022} **{Nyawira Wachira}**
   
