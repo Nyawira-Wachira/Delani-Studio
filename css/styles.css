@@ -1,19 +1,40 @@
+#logo {
+    padding-top: 220px;
+}  
+h3 {
+    font-size: xx-large;
+    padding: 8px;
+}
+.row1 p {
+    font-size:smaller;
+}
+#mouse {
+    padding-top: 148px;
+}
 .row2 {
     text-align: center;
+    padding-top: 32px;
+    padding-bottom: 35px;
 } 
+.row3 h5 {
+    padding-top: 90px;
+}
 h5 {
     text-align: center;
+}
+.row3 {
+    padding-bottom: 35px;
 }
 #Services p {
     text-align: center;
 }
 h1 {
-    font-size: medium;
+    font-size: smaller;
 }
 h2 {
     text-align: center;
     font-weight: bold;
-    font-size: medium;
+    font-size: smaller;
 }
 .row4 p {
     text-align: center; 
@@ -27,5 +48,54 @@ h2 {
 #msg {
     height: 220px;
     width: 68%;
+}
+h1 {
+    text-align: center;
+}
+#What-We-Do {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 200px;
+}
+#Portfolio1 {
+    padding-left: 220px; 
+}
+#Portfolio2 {
+    padding-left: 220px;
+    padding-bottom: 30px;
+}
+.port {
+    width: 190px;
+    margin: 18px;
+}
+.text {
+    color:white;
+}
+
+.name {
+    background-color: transparent;
+    border-color: white; 
+    margin-right: 16px;
+    color: white;
+}
+.email {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+.message {
+    background-color: transparent;
+    border-color: white;
+    color:white;
+}
+#footer1 {
+    padding: 25px;
+}
+.row p {
+    font-size:x-small;
+}
+.icon {
+    width: 40px;
+    margin: 8px;
 }
 
