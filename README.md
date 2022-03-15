@@ -25,5 +25,6 @@ Nyawira-Wachira/Delani-Studio is licensed under the MIT License.
 Here is the link to the license https://github.com/Nyawira-Wachira/Delani-Studio/blob/master/LICENSE
 
 Copyright (c) 2022
+
 **Nyawira Wachira**
   
